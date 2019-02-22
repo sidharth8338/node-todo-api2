@@ -28,6 +28,4 @@ const Todo = mongoose.model('Todo', {
 // }, (e) => {
 //     console.log("unable to save data")
 // })
-module.exports = {
-    Todo
-}
+module.exports = { Todo }
